@@ -19,5 +19,6 @@ for (int k = 0; k <= n - 1; k++)
 
     }
 }
-
+Console.WriteLine();
 Console.WriteLine("[" + st + "]");
+Console.WriteLine();
